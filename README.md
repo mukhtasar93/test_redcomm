@@ -1,7 +1,5 @@
 Instructions for use/ installation:
 
-1. Extract file test_stickynotes.zip
-
 Backend:
 1. Make sure the local server and MySQL services are running
 2. Make a MySQL database with the name: "lara_test_redcomm"
